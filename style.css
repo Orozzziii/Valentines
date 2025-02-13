@@ -4,7 +4,7 @@ body {
   background-color: rgb(205, 116, 147);
 }
 
-.button {
+.button1 {
   background-color: #04AA6D; /* Green */
   color: white;
   padding: 15px 32px;
@@ -18,11 +18,7 @@ body {
   background-color: #f44336; /* Red */
 }
 
-.h3 {
-  text-size: 60px;
-  
-  
-}
+
 
 
 
