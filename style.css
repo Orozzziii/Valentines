@@ -5,7 +5,7 @@ body {
   
 }
 button {
-  background-color: rgb(206, 91, 91); /* Green */
+  background-color: rgb(206, 91, 91); 
   border: none;
   color: white;
   padding: 15px 32px;
@@ -15,6 +15,7 @@ button {
   font-size: 16px;
   margin: 4px 2px;
   cursor: pointer;
+  radius: 8px:
 }
 
 h2 {
