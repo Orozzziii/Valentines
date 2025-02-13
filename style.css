@@ -1,8 +1,9 @@
 <style>
 body {
-text-align: center;
-    background-color: rgb(205, 116, 147);
+  text-align: center;
+  background-color: rgb(205, 116, 147);
 }
+
 .button {
   background-color: #04AA6D; /* Green */
   border: none;
@@ -16,5 +17,7 @@ text-align: center;
   cursor: pointer;
 }
 
-.button2 {background-color: #f44336;} /* Blue */
+.button2 {
+  background-color: #f44336; /* Red */
+}
 </style>
