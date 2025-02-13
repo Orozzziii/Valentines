@@ -5,7 +5,7 @@ body {
   
 }
 button {
-  background-color: red; /* Green */
+  background-color: rgb(206, 91, 91); /* Green */
   border: none;
   color: white;
   padding: 15px 32px;
